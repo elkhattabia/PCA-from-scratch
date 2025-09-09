@@ -1,2 +1,2 @@
 # PCA-from-scratch
-An atytempt at understanding , making and implementing PCA using Python. 
+An attempt at understanding and implementing PCA using Python. 
